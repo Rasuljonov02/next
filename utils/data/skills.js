@@ -5,7 +5,7 @@ export const skillsData = [
 	"Javascript",
 	"Typescript",
 	"React",
-  "vue",
+  "Vue",
 	"Next JS",
 	"Tailwind",
 	"MongoDB",
