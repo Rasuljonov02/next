@@ -5,6 +5,16 @@ import travel from "/public/image/travel.jpg";
 
 export const projectsData = [
 	{
+		id: 0,
+		name: "DT Ecosystem",
+		description: "In DT Ecosystem, I organized the structuring of fields and how to work in Ecosystem and teams",
+		tools: ["Typescript", "Vue js","Nuxt js"],
+		role: "Frontend Developer",
+		code: "https://devx.dthub.uz/",
+		demo: "https://devx.dthub.uz/",
+		image: crefin,
+	},
+	{
 		id: 1,
 		name: "Academic Lyceum under the university",
 		description: "I wrote to update this project it was written in php before I updated it",
